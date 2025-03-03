@@ -1,6 +1,6 @@
 # INUScope 🕵️‍♂️
 
-**INUScope** es una herramienta básica y con una interfaz interactiva hecha en Python para escanear y enumerar subdominios de manera ética. Usa APIs como **SecurityTrails** y **VirusTotal**, y detecta subdominios activos (HTTP/HTTPS). 🚀
+**INUScope** es una herramienta básica y con una interfaz interactiva hecha en Python para escanear y enumerar subdominios de manera ética. Usa APIs como **SecurityTrails** y **VirusTotal**, y detecta subdominios activos (HTTP/HTTPS), cualquier. 🚀
 
 ## Características: ✨
 - **Enumeración de subdominios** con APIs.
@@ -76,5 +76,10 @@ Este proyecto está bajo la licencia *MIT*.
 ```
 
 ___
+
+INUScoop es una herramienta desarrollada con fines educativos y de pruebas de seguridad autorizadas. 
+El uso de esta herramienta para actividades maliciosas, no autorizadas o ilegales está estrictamente prohibido. 
+Yo no me haré responsable del uso indebido de esta herramienta. 
+Asegúrate de tener permiso explícito antes de escanear cualquier dominio o sistema.
 
 Creado por InuDevs ❤️ Recuerda si quieres aportar, contactame.
