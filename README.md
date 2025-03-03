@@ -67,6 +67,7 @@ requests==2.31.0
 tqdm==4.66.1
 rich==13.6.0
 python-dotenv==1.0.0
+concurrent-log-handler==0.9.23
 ```
 
 # Licencia: 📜
