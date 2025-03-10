@@ -71,15 +71,10 @@ concurrent-log-handler==0.9.23
 ```
 
 # Licencia: 📜
-```bash
-Este proyecto está bajo la licencia *MIT*.
-```
+
+Este proyecto está bajo la licencia *GNU GENERAL PUBLIC LICENSE v3*.
+Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ___
-
-INUScoop es una herramienta desarrollada con fines educativos y de pruebas de seguridad autorizadas. 
-El uso de esta herramienta para actividades maliciosas, no autorizadas o ilegales está estrictamente prohibido. 
-Yo no me haré responsable del uso indebido de esta herramienta. 
-Asegúrate de tener permiso explícito antes de escanear cualquier dominio o sistema.
 
 Creado por InuDevs ❤️ Recuerda si quieres aportar, contactame.
