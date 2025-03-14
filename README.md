@@ -15,7 +15,7 @@
 ## Instalación: 🛠️
 ```bash
 1. Clona el repositorio:
-   git clone https://github.com/tuusuario/INUScoop.git
+   git clone https://github.com/inudevs001/INUScoop.git
    cd INUScoop
 
 2. Instala las dependencias:
