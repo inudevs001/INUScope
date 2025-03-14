@@ -25,7 +25,7 @@
 # Uso: 🚀
 ```bash
 Ejecuta el script con:
-python inuscoop.py
+python inuscope.py
 ```
 
 # Interfaz: 🎉
