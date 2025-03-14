@@ -53,7 +53,7 @@ Ejemplos: 💡
 http://subdominio.ejemplo.com - Status: 200, Server: nginx
 ```
 
-# Compatibilidad ✔️
+# Compatibilidad: ✔️
 ```bash
 - Sistemas Operativos: Windows, Linux, macOS.
 - Python: Versión 3.7 o superior.
