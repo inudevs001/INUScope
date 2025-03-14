@@ -39,11 +39,11 @@ python inuscope.py
 Ejemplos: 💡
 ```bash
 1. Escanear un dominio:
-   python inuscoop.py
-   seleccionar
+   python inuscope.py
+   seleccionar opciones
 
 2. Especificar archivo de salida:
-   puedes ponerle nombre al archivo donde irán los resultados
+   puedes ponerle nombre al archivo donde irán los resultados, evita poner la extensión .txt, ya se reconce.
 
 3. Usar timeout personalizado:
    puedes seleccionar el tiempo para personalizar mejor tu escaneo
