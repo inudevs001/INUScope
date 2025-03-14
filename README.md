@@ -16,7 +16,7 @@
 ```bash
 1. Clona el repositorio:
    git clone https://github.com/inudevs001/INUScoop.git
-   cd INUScoop
+   cd INUScope
 
 2. Instala las dependencias:
    pip install -r requirements.txt
